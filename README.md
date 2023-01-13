@@ -4,7 +4,7 @@ PHP Lernen für Schühler
 
 
 
-##Was ist PHP? [ [Quelle](https://www.php.net/manual/de/intro-whatis.php) ]
+## Was ist PHP? [ [Quelle](https://www.php.net/manual/de/intro-whatis.php) ]
 
 PHP (rekursives Akronym für PHP: Hypertext Preprocessor) ist eine weit verbreitete und für den allgemeinen Gebrauch bestimmte Open Source-Skriptsprache, welche speziell für die Webprogrammierung geeignet ist und in HTML eingebettet werden kann.
 
@@ -33,35 +33,35 @@ PHP unterscheidet sich von clientseitigen Sprachen wie Javascript dadurch, dass 
 Das Beste an der Verwendung von PHP ist, dass es für Neueinsteiger extrem einfach ist, aber auch einen riesigen Funktionsumfang für den professionellen Programmierer bietet. Scheuen Sie sich nicht, die lange Liste der PHP-Funktionen zu lesen. Sie können einsteigen, und binnen weniger Stunden bereits mit dem Schreiben von einfachen Skripten beginnen.
 
 
-##Dokumentation auf php.net
+## Dokumentation auf php.net
 
- - ###[Sprachreferenz](https://www.php.net/manual/de/langref.php)
-   - ####Grundlagen der Syntax
+ - ### [Sprachreferenz](https://www.php.net/manual/de/langref.php)
+   - #### Grundlagen der Syntax
      - [PHP Tags](https://www.php.net/manual/de/language.basic-syntax.phptags.php)
      - [Den HTML-Bereich verlassen](https://www.php.net/manual/de/language.basic-syntax.phpmode.php)
      - [Die Trennung von Anweisungen](https://www.php.net/manual/de/language.basic-syntax.instruction-separation.php)
      - [Kommentare](https://www.php.net/manual/de/language.basic-syntax.comments.php)
-   - ####Variablen
+   - #### Variablen
      - [Grundlegendes](https://www.php.net/manual/de/language.variables.basics.php)
-   - ####Operatoren
+   - #### Operatoren
      - [Arithmetische Operatoren](https://www.php.net/manual/de/language.operators.arithmetic.php)
      - [Vergleichs-Operatoren](https://www.php.net/manual/de/language.operators.comparison.php)
      - [Logische Operatoren](https://www.php.net/manual/de/language.operators.logical.php)
      - [Zeichenketten-Operatoren](https://www.php.net/manual/de/language.operators.string.php)
-   - ####Kontrollstrukturen
+   - #### Kontrollstrukturen
      - [if](https://www.php.net/manual/de/control-structures.if.php)
      - [else](https://www.php.net/manual/de/control-structures.else.php)
      - [for](https://www.php.net/manual/de/control-structures.for.php)
      - [foreach](https://www.php.net/manual/de/control-structures.foreach.php)
      - [break](https://www.php.net/manual/de/control-structures.break.php)
      - [continue](https://www.php.net/manual/de/control-structures.continue.php)
-   - ####Funktionen
+   - #### Funktionen
      - [Benutzerdefinierte Funktionen](https://www.php.net/manual/de/functions.user-defined.php)
      - [Funktionsparameter](https://www.php.net/manual/de/functions.arguments.php)
      - [Rückgabewerte](https://www.php.net/manual/de/functions.returning-values.php)
 
 
-##PHP Kurs
+## PHP Kurs
 https://www.php-kurs.com/erstes-php-programm.htm
 
 
