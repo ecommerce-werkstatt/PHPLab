@@ -1,5 +1,5 @@
 # PHPLab
-PHP Lernen für Schühler
+PHP Lernen für Schüler
 
 
 
