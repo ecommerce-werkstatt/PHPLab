@@ -32,7 +32,6 @@ Das Beste an der Verwendung von PHP ist, dass es für Neueinsteiger extrem einfa
 
 
 
-
 ## Lektion 1 
 Lese folgende wichtige Kapitel der PHP Dokumentation [ [Quelle](https://www.php.net/manual/de/langref.php) ] und teste
 funktionsweise der PHP in der Datei index.php die über http://localhost/phplab/index.php aufrufen kannst.
