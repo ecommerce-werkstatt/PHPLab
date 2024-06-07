@@ -1,6 +1,6 @@
 # Aufgabe 0
 
-Erstelle eine Tabelle mit dem Namen `adresse`.
+Erstelle eine Tabelle mit dem Namen `adressen`.
 
 Die Datenbank soll folgene Spalten haben
 - id als int (soll sich von alleine erhöhen) und ist Primary Key
