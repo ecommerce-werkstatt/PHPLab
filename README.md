@@ -94,6 +94,10 @@ funktionsweise der PHP in der Datei index.php
   - [file_put_contents](https://www.php.net/manual/de/function.file-put-contents.php) Schreibt Daten in eine Datei
 
 
+## Lektion 3
+Lese folgene Einleitung
+- ### Mysql
+  - [Mysql](https://www.php-kurs.com/mysql---datenbank-unter-php.htm)
 
 > #### Erledige die Aufgabe 5
 
